@@ -31,3 +31,13 @@ outputs New_Die_A = [?, ?, ?, ?, ?, ?],New_Die_B = [?, ?,
 
 ![image](https://github.com/VishnupriyaThammina/DoomedDice/assets/89837239/c8a09af7-9e41-46ba-88f2-922ec7db0b90)
 
+: I tried my level best
+to discover a solution but I was unable to come up with an efficient approach 
+I have an idea 
+Which is like brute force
+for die A : we have [1,2,3,4,x,y] case all together will give us 4!*4c2 ways let this be m
+For die B: we have [1 to 9] we can 6 choose numbers as mentioned die can have more than 6 spots on the face which will lead to 9c6 ways let this be n
+so I will have to check 
+m*n times for each combination in m will be checked with each combination in n
+by calculating probabilities just like I did in question 3 of part a
+if the probabilities match that would be the new die a and die b pair
