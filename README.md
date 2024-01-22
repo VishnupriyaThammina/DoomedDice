@@ -38,9 +38,7 @@ outputs New_Die_A = [?, ?, ?, ?, ?, ?],New_Die_B = [?, ?,
 
 ![image](https://github.com/VishnupriyaThammina/DoomedDice/assets/89837239/c8a09af7-9e41-46ba-88f2-922ec7db0b90)
 
-: I tried my level best
-to discover a solution but I was unable to come up with an efficient approach 
-But
+
 ` I have an idea `
 Which is like brute force
 for die A : we have [1,2,3,4,x,y] case all together will give us 4!*4c2 ways let this be m
