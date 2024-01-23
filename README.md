@@ -38,12 +38,17 @@ outputs New_Die_A = [?, ?, ?, ?, ?, ?],New_Die_B = [?, ?,
 
 ![image](https://github.com/VishnupriyaThammina/DoomedDice/assets/89837239/c8a09af7-9e41-46ba-88f2-922ec7db0b90)
 
+Part b:
+we are generating all combinations possible from [1,2,3,4] on rolling a dice
+and we are generating all combinations possible on rolling dice with digigts from 1 to 8
+because 8+4=12 the as we are removing 5,6 the highest number that can be considered is 8
+now we find all combinations possible for 8
+these combinations are combinations of faces on dice
+now we take set of faces that can be possible 
+as such two dice
+and we try to calculate the probability 
+if the prob vectors match 
+that is the perfect dice combinations
 
-` I have an idea `
-Which is like brute force
-for die A : we have [1,2,3,4,x,y] case all together will give us 4!*4c2 ways let this be m
-For die B: we have [1 to 9] we can 6 choose numbers as mentioned die can have more than 6 spots on the face which will lead to 9c6 ways let this be n
-so I will have to check 
-m*n times for each combination in m will be checked with each combination in n
-by calculating probabilities just like I did in question 3 of part a
-if the probabilities match that would be the new die a and die b pair
+![image](https://github.com/VishnupriyaThammina/DoomedDice/assets/89837239/a1163f8e-7f28-4130-9a40-3cbb7f8be16a)
+
