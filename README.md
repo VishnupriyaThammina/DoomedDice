@@ -36,7 +36,6 @@ outputs New_Die_A = [?, ?, ?, ?, ?, ?],New_Die_B = [?, ?,
 ?, ?, ?, ?] where,
 ● No New_Die A[x] > 4
 
-![image](https://github.com/VishnupriyaThammina/DoomedDice/assets/89837239/c8a09af7-9e41-46ba-88f2-922ec7db0b90)
 
 `Part b:`
 
