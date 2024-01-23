@@ -38,7 +38,8 @@ outputs New_Die_A = [?, ?, ?, ?, ?, ?],New_Die_B = [?, ?,
 
 ![image](https://github.com/VishnupriyaThammina/DoomedDice/assets/89837239/c8a09af7-9e41-46ba-88f2-922ec7db0b90)
 
-Part b:
+`Part b:`
+
 we are generating all combinations possible from [1,2,3,4] on rolling a dice
 and we are generating all combinations possible on rolling dice with digigts from 1 to 8
 because 8+4=12 the as we are removing 5,6 the highest number that can be considered is 8
@@ -50,5 +51,6 @@ and we try to calculate the probability
 if the prob vectors match 
 that is the perfect dice combinations
 
-![image](https://github.com/VishnupriyaThammina/DoomedDice/assets/89837239/a1163f8e-7f28-4130-9a40-3cbb7f8be16a)
+![image](https://github.com/VishnupriyaThammina/DoomedDice/assets/89837239/d4666581-be00-4b18-a758-eecbca376a3f)
+
 
