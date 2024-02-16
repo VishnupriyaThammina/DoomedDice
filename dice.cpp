@@ -194,7 +194,7 @@ int main()
     cout << endl;
   }
   cout << endl;
-
+ cout << "Part B" << endl;
     vector<int> originalDieA = {1, 2, 3, 4, 5, 6}; 
     vector<int> originalDieB = {1, 2, 3, 4, 5, 6};
     transform(originalDieA, originalDieB);
